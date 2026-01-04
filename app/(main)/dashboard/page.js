@@ -1,4 +1,4 @@
-import { getIndustryInsights } from "@/action/dashboard";
+import { getIndustryInsights } from "@/actions/dashboard";
 import DashboardView from "./_component/dashboard_view";
 import { getUserOnboardingStatus } from "@/actions/user";
 import { redirect } from "next/navigation";
